@@ -1,3 +1,7 @@
+### name: S.NADISH
+### REG NO:212224050023
+### DATE: 15/04/2025 
+
 # JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
@@ -36,8 +40,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by: NADISH.S
-RegisterNumber: 212224050023
+
 */
 ```
 
